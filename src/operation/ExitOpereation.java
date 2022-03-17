@@ -6,11 +6,11 @@ import book.BookList;
  * Create with IntelliJ IDEA
  * Description:
  * User:Zyt
- * Date:2022-03-15
+ * Date:2022-03-17
  */
-public class ReturnOperation implements IOperation {
+public class ExitOpereation implements IOperation {
     @Override
     public void work(BookList bookList) {
-        System.out.println("归还图书！");
+        System.out.println("退出系统！");
     }
 }
