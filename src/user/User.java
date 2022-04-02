@@ -1,5 +1,6 @@
 package user;
 
+import book.BookList;
 import operation.IOperation;
 
 /**
@@ -18,4 +19,8 @@ public abstract class User {
 
 
     public  abstract int meau();
+
+    public void doWork(int choice, BookList bookList){
+        iOperations[choice].work(bookList);
+    }
 }

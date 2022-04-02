@@ -20,10 +20,12 @@ public class BookList {
     }
 
     public int getUesdSize() {
+
         return uesdSize;
     }
 
     public void setUesdSize(int uesdSize) {
+
         this.uesdSize = uesdSize;
     }
 
@@ -33,6 +35,7 @@ public class BookList {
      * @return
      */
     public Book getPos (int pos){
+
         return books[pos];
     }
 
@@ -42,7 +45,7 @@ public class BookList {
      * @param book
      */
 
-    public void setBook (int pos,Book book){
+    public void setBook (int pos,Book book) {
         this.books[pos] = book;
     }
 }

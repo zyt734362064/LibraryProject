@@ -1,3 +1,4 @@
+import book.BookList;
 import user.AdminUser;
 import user.NormalUser;
 import user.User;
@@ -25,12 +26,15 @@ public class Main {
     }
 
     public static void main(String[] args) {
+        BookList bookList = new BookList();
         //向上转型
         User user =  login();
         //动态绑定
-        user.meau();
-
-        //根据choice 调用合适的操作
+        while (true){
+            //根据choice 调用合适的操作
+            int choice = user.meau();
+            user.doWork(choice,bookList);
+        }
 
     }
 }

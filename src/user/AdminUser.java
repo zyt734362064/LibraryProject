@@ -14,11 +14,11 @@ public class AdminUser extends User {
     public AdminUser(String name){
         super(name);
         this.iOperations = new IOperation[]{
+                new ExitOpereation(),
                 new FindOperation(),
                 new AddOperation(),
                 new DelOperation(),
-                new DisplayOperation(),
-                new ExitOpereation()
+                new DisplayOperation()
         };
     }
 

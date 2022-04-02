@@ -14,10 +14,10 @@ public class NormalUser extends User {
     public NormalUser(String name){
         super(name);
         this.iOperations = new IOperation[]{
+                new ExitOpereation(),
                 new FindOperation(),
                 new BorrowOperation(),
-                new ReturnOperation(),
-                new ExitOpereation()
+                new ReturnOperation()
         };
     }
 
