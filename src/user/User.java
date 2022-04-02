@@ -14,6 +14,7 @@ public abstract class User {
 
     protected IOperation[] iOperations;
     public User(String name){
+
         this.name = name;
     }
 

@@ -12,7 +12,6 @@ public class Book {
     private int price;
     private String type;
     private  boolean isBorrowed;
-
     public String getName() {
         return name;
     }
@@ -33,8 +32,11 @@ public class Book {
         return price;
     }
 
+
+
     public void setPrice(int price) {
         this.price = price;
+
     }
 
     public String getType() {
@@ -55,12 +57,12 @@ public class Book {
 
     @Override
     public String toString() {
-        return "Book{" +
+        return "Book:{" +
                 "name='" + name + '\'' +
                 ", author='" + author + '\'' +
                 ", price=" + price +
-                ", type='" + type + '\'' +
-                ", isBorrowed=" + isBorrowed +
+                ", type='" + type + '\'' + "," +
+                ((isBorrowed == true) ? " 已借出" : " 未借出") +
                 '}';
 
     }

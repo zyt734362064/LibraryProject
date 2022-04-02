@@ -1,5 +1,7 @@
 package book;
 
+import java.util.Arrays;
+
 /**
  * Create with IntelliJ IDEA
  * Description:
@@ -8,7 +10,6 @@ package book;
  */
 public class BookList {
     private Book[] books = new Book[10];
-
     private int uesdSize;
 
     public BookList(){
@@ -23,7 +24,11 @@ public class BookList {
 
         return uesdSize;
     }
-
+    private void checkPos(int pos){
+        if (pos < 0 || pos > uesdSize) {
+            throw new RuntimeException("pos位置不合法！");
+        }
+    }
     public void setUesdSize(int uesdSize) {
 
         this.uesdSize = uesdSize;
@@ -35,7 +40,7 @@ public class BookList {
      * @return
      */
     public Book getPos (int pos){
-
+        checkPos(pos);
         return books[pos];
     }
 
@@ -46,6 +51,10 @@ public class BookList {
      */
 
     public void setBook (int pos,Book book) {
+        if (getUesdSize() == books.length){
+            this.books = Arrays.copyOf(this.books, 2 * this.books.length);
+        }
+        checkPos(pos);
         this.books[pos] = book;
     }
 }
