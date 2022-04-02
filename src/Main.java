@@ -20,7 +20,7 @@ public class Main {
         int choice = scanner.nextInt();
         if (choice == 1){
             return new AdminUser(name);
-        }else {
+        } else {
             return new NormalUser(name);
         }
     }

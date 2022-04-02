@@ -3,26 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="5e106f2d-73ba-4425-bee8-7ddc238d6170" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LibraryProject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LibraryProject/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LibraryProject/book/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LibraryProject/book/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LibraryProject/book/BookList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LibraryProject/book/BookList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LibraryProject/operation/AddOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LibraryProject/operation/AddOperation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LibraryProject/operation/BorrowOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LibraryProject/operation/BorrowOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LibraryProject/operation/DisplayOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LibraryProject/operation/DisplayOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LibraryProject/operation/IOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LibraryProject/operation/IOperation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LibraryProject/operation/ReturnOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LibraryProject/operation/ReturnOperation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LibraryProject/user/AdminUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LibraryProject/user/AdminUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LibraryProject/user/NormalUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LibraryProject/user/NormalUser.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LibraryProject/user/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LibraryProject/user/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/book/BookList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/book/BookList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operation/AddOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation/AddOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operation/DelOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation/DelOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operation/DisplayOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation/DisplayOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operation/ExitOpereation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation/ExitOpereation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operation/FindOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation/FindOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/operation/IOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation/IOperation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operation/BorrowOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation/BorrowOperation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/operation/ReturnOperation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/operation/ReturnOperation.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,35 +19,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="AddOperation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/operation/AddOperation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-52">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DelOperation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DelOperation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/operation/DelOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
+            <state relative-caret-position="175">
               <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyArrayList.class" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaCode/out/production/JavaCode/com/Test0117/MyArrayList.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-542">
-              <caret line="56" column="9" lean-forward="true" selection-start-line="54" selection-start-column="8" selection-end-line="56" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -79,11 +43,35 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="NormalUser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/user/NormalUser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Book.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/book/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
+            <state relative-caret-position="405">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="e#281#282#0" expanded="true" />
                 <element signature="e#308#309#0" expanded="true" />
@@ -120,18 +108,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-26">
-              <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ExitOpereation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/operation/ExitOpereation.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -153,11 +129,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="BorrowOperation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/operation/BorrowOperation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ReturnOperation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/operation/ReturnOperation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            <state relative-caret-position="365">
+              <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -184,18 +175,18 @@
       <list>
         <option value="$PROJECT_DIR$/src/user/AdminUser.java" />
         <option value="$PROJECT_DIR$/src/user/NormalUser.java" />
-        <option value="$PROJECT_DIR$/src/operation/ReturnOperation.java" />
-        <option value="$PROJECT_DIR$/src/operation/BorrowOperation.java" />
         <option value="$PROJECT_DIR$/src/user/User.java" />
         <option value="$PROJECT_DIR$/src/operation/IOperation.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/book/BookList.java" />
         <option value="$PROJECT_DIR$/src/operation/DisplayOperation.java" />
         <option value="$PROJECT_DIR$/src/operation/AddOperation.java" />
-        <option value="$PROJECT_DIR$/src/book/Book.java" />
         <option value="$PROJECT_DIR$/src/operation/FindOperation.java" />
         <option value="$PROJECT_DIR$/src/operation/ExitOpereation.java" />
         <option value="$PROJECT_DIR$/src/operation/DelOperation.java" />
+        <option value="$PROJECT_DIR$/src/book/Book.java" />
+        <option value="$PROJECT_DIR$/src/operation/ReturnOperation.java" />
+        <option value="$PROJECT_DIR$/src/operation/BorrowOperation.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
       </list>
     </option>
   </component>
@@ -351,7 +342,7 @@
       <updated>1647349773260</updated>
       <workItem from="1647349784712" duration="2535000" />
       <workItem from="1647518855249" duration="8334000" />
-      <workItem from="1648888031310" duration="10131000" />
+      <workItem from="1648888031310" duration="11012000" />
     </task>
     <task id="LOCAL-00001" summary="添加操作类和用户类">
       <created>1647351727050</created>
@@ -381,15 +372,21 @@
       <option name="project" value="LOCAL" />
       <updated>1648888533939</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="管理员菜单方法实现">
+      <created>1648901569955</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1648901569955</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21000000" />
+    <option name="totallyTimeSpent" value="21881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -401,11 +398,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993188" weight="0.2195122" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993188" visible="true" weight="0.2195122" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2608992" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21594006" />
       <window_info anchor="bottom" id="Alibaba Cloud View" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Alibaba Cloud Explorer" order="2" />
@@ -433,7 +430,8 @@
     <MESSAGE value="添加操作类和用户类" />
     <MESSAGE value="管理员用户操作" />
     <MESSAGE value="主函数（主登录界面）" />
-    <option name="LAST_COMMIT_MESSAGE" value="主函数（主登录界面）" />
+    <MESSAGE value="管理员菜单方法实现" />
+    <option name="LAST_COMMIT_MESSAGE" value="管理员菜单方法实现" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/operation/AddOperation.java">
@@ -633,27 +631,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/operation/BorrowOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/user/AdminUser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/user/NormalUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -679,49 +660,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-26">
-          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/operation/AddOperation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-52">
           <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/book/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="59" column="21" selection-start-line="59" selection-start-column="21" selection-end-line="59" selection-end-column="21" />
-          <folding>
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#683#684#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#750#751#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#850#851#0" expanded="true" />
-            <element signature="e#899#900#0" expanded="true" />
-            <element signature="e#936#937#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -746,20 +690,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/operation/ReturnOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/operation/ExitOpereation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/operation/DisplayOperation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
@@ -779,8 +709,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/operation/DelOperation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
+        <state relative-caret-position="175">
           <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/book/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="e#281#282#0" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#683#684#0" expanded="true" />
+            <element signature="e#710#711#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#850#851#0" expanded="true" />
+            <element signature="e#899#900#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/operation/ExitOpereation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/operation/ReturnOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/operation/BorrowOperation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/user/NormalUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
